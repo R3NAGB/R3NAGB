@@ -24,5 +24,5 @@
 ---
 
 ### 💡 Let's Connect!  
-- 🔗 [Telegram ]([https://github.com/R3NAGB](https://t.me/reanchanrin))  
+- 🔗 [Telegram](https://t.me/reanchanrin) 
 - 📧 [Email](reanchanrin@gmail.com)
