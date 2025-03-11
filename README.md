@@ -12,7 +12,7 @@
 ## 🛠️ Tech Stack  
 🔹 Frontend: React.js, Tailwind CSS, Bootstrap 5  
 🔹 Backend: Express.js, Node.js  
-🔹 Database: MySQL, PostgreSQL  
+🔹 Database: MySQL
 🔹 Version Control: Git & GitHub  
 🔹 Other Tools: Postman, VS Code,XAMPP
 
